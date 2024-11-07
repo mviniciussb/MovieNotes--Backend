@@ -23,28 +23,34 @@ Movie Notes API é uma API criada para armazenar e gerenciar notas sobre filmes.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/mviniciussb/MovieNotes--Backend.git ```
+git clone https://github.com/mviniciussb/MovieNotes--Backend.git
+```
 
 2. Acesse a pasta do projeto:
 ```bash
-cd movie-notes-api```
+cd movie-notes-api
+```
 
 3. Instale as dependências:
 ```bash
-npm install ```
+npm install
+ ```
 
 4. Execute as migrations para configurar o banco de dados:
 ```bash
-npm run migrate ```
+npm run migrate
+ ```
 
 ## Uso
 1. Para iniciar o servidor em modo de desenvolvimento (com nodemon):
 ```bash
-npm run dev ```
+npm run dev
+ ```
 
 2. Para iniciar o servidor em modo de produção:
 ```bash
-npm start ```
+npm start
+```
 
 A API estará rodando em http://localhost:5555
 
@@ -54,4 +60,5 @@ src/
 ├── controllers/   # Controladores das rotas da API
 ├── database/      # Configurações do banco de dados e migrations
 ├── routes/        # Definições das rotas da API
-└── server.js      # Arquivo principal que inicia o servidor ```
+└── server.js      # Arquivo principal que inicia o servidor
+ ```
