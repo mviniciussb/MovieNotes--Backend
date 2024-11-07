@@ -27,7 +27,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/movie-notes-api.git
+   https://github.com/mviniciussb/MovieNotes--Backend.git
 
 2. Acesse a pasta do projeto:
    ```bash
