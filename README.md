@@ -28,7 +28,7 @@ git clone https://github.com/mviniciussb/MovieNotes--Backend.git
 
 2. Acesse a pasta do projeto:
 ```bash
-cd movie-notes-api
+cd MovieNotes--Backend
 ```
 
 3. Instale as dependências:
